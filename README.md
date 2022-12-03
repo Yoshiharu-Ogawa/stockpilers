@@ -1,6 +1,6 @@
 # README
 
-# <stockpilers>
+# stockpilers
 
 ## サイト概要
 - 備蓄品を買い備える人たちの交流の場です。
